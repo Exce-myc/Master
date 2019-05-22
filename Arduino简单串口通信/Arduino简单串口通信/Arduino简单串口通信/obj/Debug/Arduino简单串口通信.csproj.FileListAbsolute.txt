@@ -1,0 +1,15 @@
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\bin\Debug\Arduino简单串口通信.exe.config
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\bin\Debug\Arduino简单串口通信.exe
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\bin\Debug\Arduino简单串口通信.pdb
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.csprojAssemblyReference.cache
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\MainWindow.g.cs
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\App.g.cs
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信_MarkupCompile.cache
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信_MarkupCompile.lref
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\MainWindow.baml
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.g.resources
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.Properties.Resources.resources
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.csproj.GenerateResource.cache
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.csproj.CoreCompileInputs.cache
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.exe
+C:\Users\74085\source\repos\Arduino简单串口通信\Arduino简单串口通信\obj\Debug\Arduino简单串口通信.pdb

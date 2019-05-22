@@ -1,0 +1,15 @@
+﻿<Window x:Class="Arduino简单串口通信.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Arduino简单串口通信"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400" Loaded="Window_Loaded">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="61" Margin="36,90,0,0" VerticalAlignment="Top" Width="122" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="61" Margin="224,90,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_1"/>
+        <TextBox x:Name="tbReceiveData" HorizontalAlignment="Left" Height="27" Margin="158,188,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="57"/>
+
+    </Grid>
+</Window>
